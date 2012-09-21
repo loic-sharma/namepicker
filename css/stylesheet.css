@@ -1,0 +1,23 @@
+/* RESET */
+*{margin:0;padding:0;}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline;}
+
+/* BASIC */
+body{background:#f7f7f7;font-size:13px;font-family:arial, sans-serif;color:#333;text-align:left;}
+h1,h2,h3,h4,h5,h6{font-weight:bold;}
+h1{font-size:24px;line-height:30px;}
+h2{font-size:20px;line-height:26px;}
+h3{font-size:16px;line-height:24px;}
+h4{font-size:14px;line-height:20px;}
+h5{font-size:14px;line-height:20px;}
+h6{font-size:14px;line-height:20px;}
+small{font-size:10px;line-height:16px;}
+a{color:#696969;outline:none;font-weight:bold;}
+a:hover{color:#696969;}
+hr{color:#ddd;background-color:#ddd;height:1px;border:0px;margin:18px 0 18px;}
+h1 a {text-decoration:none;font-family: 'Droid Sans', Arial, sans-serif;font-weight:bold;font-size:32px;}
+p{line-height:18px;font-family: arial, sans-serif;font-size: 13px;margin-bottom:18px;}
+h2 {padding-bottom:2px;margin-bottom:10px;color:#505057;font-size:24px;font-weight:bold;border-bottom:1px solid #DDD;}
+
+/* #wrapper */
+#wrapper{margin:auto;width:640px;padding-top:50px;}
